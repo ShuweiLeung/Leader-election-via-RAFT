@@ -1,4 +1,4 @@
-# Raft leader election implementation
+# Raft Leader Election Implementation
 
 ### Config file
 
